@@ -1,0 +1,18 @@
+.time-card {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  background: #222;
+  gap: 8px;
+  color: white;
+  font-size: 50px;
+  width: 400px;
+  height: 150px;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.time-span {
+  letter-spacing: 8px;
+}
